@@ -45,6 +45,8 @@ class Parent {
     { 
         System.out.println("From parent "
                            + "static m1()"); 
+        System.out.println("Git Commit From parent "
+                + "static m1()");
     } 
   
     // Non-static method which will 
